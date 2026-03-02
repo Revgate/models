@@ -1679,5 +1679,135 @@
       }
     ],
     "type": { "primary": "chat", "supported": ["image", "pdf", "doc", "tools"] }
+  },
+  "gemini-3.1-pro-preview-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-3.1-pro-preview-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-3.1-pro-preview-customtools-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-3.1-pro-preview-customtools-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-3.1-flash-image-preview-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-3.1-flash-image-preview-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-robotics-er-1.5-preview-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-robotics-er-1.5-preview-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "imagen-4.0-generate-001-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "imagen-4.0-generate-001-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "imagen-4.0-ultra-generate-001-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "imagen-4.0-ultra-generate-001-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "imagen-4.0-fast-generate-001-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "imagen-4.0-fast-generate-001-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-3.1-generate-preview-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-3.1-generate-preview-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-3.1-fast-generate-preview-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-3.1-fast-generate-preview-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-3.0-generate-001-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-3.0-generate-001-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-3.0-fast-generate-001-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-3.0-fast-generate-001-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-2.0-generate-001-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "veo-2.0-generate-001-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-embedding-001-lte-128k": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gemini-embedding-001-gt-128k": {
+    "type": {
+      "primary": "chat"
+    }
   }
 }
