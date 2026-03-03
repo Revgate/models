@@ -4908,5 +4908,20 @@
         "maxValue": 65536
       }
     ]
+  },
+  "openai/gpt-5.3-chat": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "image",
+        "tools"
+      ]
+    },
+    "params": [
+      {
+        "key": "max_tokens",
+        "maxValue": 16384
+      }
+    ]
   }
 }
