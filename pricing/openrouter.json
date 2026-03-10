@@ -5195,5 +5195,17 @@
         }
       }
     }
+  },
+  "bytedance-seed/seed-2.0-lite": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.000025
+        },
+        "response_token": {
+          "price": 0.0002
+        }
+      }
+    }
   }
 }
