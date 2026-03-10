@@ -4923,5 +4923,14 @@
         "maxValue": 128000
       }
     ]
+  },
+  "qwen/qwen3.5-9b": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "image",
+        "tools"
+      ]
+    }
   }
 }
