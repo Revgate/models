@@ -4923,5 +4923,29 @@
         "maxValue": 128000
       }
     ]
+  },
+  "bytedance-seed/seed-2.0-lite": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "image",
+        "tools"
+      ]
+    },
+    "params": [
+      {
+        "key": "max_tokens",
+        "maxValue": 131072
+      }
+    ]
+  },
+  "qwen/qwen3.5-9b": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "image",
+        "tools"
+      ]
+    }
   }
 }
