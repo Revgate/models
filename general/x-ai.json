@@ -197,5 +197,13 @@
         "tools"
       ]
     }
+  },
+  "grok-4.20-beta-reasoning": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
   }
 }
