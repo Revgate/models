@@ -3412,10 +3412,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.000065
+          "price": 0.000085
         },
         "response_token": {
-          "price": 0.000075
+          "price": 0.000085
         }
       }
     }
@@ -4612,10 +4612,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.0000295
+          "price": 0.000027
         },
         "response_token": {
-          "price": 0.00012
+          "price": 0.000095
         }
       }
     }
@@ -4624,10 +4624,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.00008
+          "price": 0.000072
         },
         "response_token": {
-          "price": 0.000256
+          "price": 0.00023
         }
       }
     }
@@ -5180,6 +5180,30 @@
         },
         "response_token": {
           "price": 0.0015
+        }
+      }
+    }
+  },
+  "bytedance-seed/seed-2.0-lite": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.000025
+        },
+        "response_token": {
+          "price": 0.0002
+        }
+      }
+    }
+  },
+  "qwen/qwen3.5-9b": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00001
+        },
+        "response_token": {
+          "price": 0.000015
         }
       }
     }
