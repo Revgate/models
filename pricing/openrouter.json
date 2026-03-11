@@ -160,10 +160,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0.000025
+          "price": 0.000026
         },
         "response_token": {
-          "price": 0.00004
+          "price": 0.000038
         }
       }
     }
@@ -640,10 +640,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0
+          "price": 0.000013
         },
         "response_token": {
-          "price": 0
+          "price": 0.000156
         }
       }
     }
@@ -772,10 +772,10 @@
     "pricing_config": {
       "pay_as_you_go": {
         "request_token": {
-          "price": 0
+          "price": 0.000026
         },
         "response_token": {
-          "price": 0
+          "price": 0.00026
         }
       }
     }
@@ -5204,6 +5204,18 @@
         },
         "response_token": {
           "price": 0.000015
+        }
+      }
+    }
+  },
+  "nvidia/nemotron-3-super-120b-a12b:free": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0
+        },
+        "response_token": {
+          "price": 0
         }
       }
     }
