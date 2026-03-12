@@ -4990,5 +4990,22 @@
         "tools"
       ]
     }
+  },
+  "x-ai/grok-4.20-multi-agent-beta": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "image"
+      ]
+    }
+  },
+  "x-ai/grok-4.20-beta": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "image",
+        "tools"
+      ]
+    }
   }
 }
