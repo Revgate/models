@@ -2608,5 +2608,26 @@
       "primary": "chat",
       "supported": ["tools", "image"]
     }
+  },
+  "o4-mini-deep-research-2025-04-16": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "o3-pro-2025-04-16": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "o3-deep-research-2025-04-16": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gpt-4o-transcribe-2025-03-20": {
+    "disablePlayground": true,
+    "type": {
+      "primary": "audio"
+    }
   }
 }
