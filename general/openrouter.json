@@ -5007,5 +5007,19 @@
         "tools"
       ]
     }
+  },
+  "minimax/minimax-m2.5:free": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    },
+    "params": [
+      {
+        "key": "max_tokens",
+        "maxValue": 196608
+      }
+    ]
   }
 }
