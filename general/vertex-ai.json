@@ -1990,5 +1990,236 @@
     "type": {
       "primary": "chat"
     }
+  },
+  "gemini-2.5-pro-computer-use-preview": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools",
+        "image"
+      ]
+    }
+  },
+  "gemini-2.5-flash-image-generation": {
+    "disablePlayground": true,
+    "type": {
+      "primary": "image"
+    }
+  },
+  "gemini-2.5-pro-preview-06-05": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools",
+        "image"
+      ]
+    }
+  },
+  "gemini-2.5-flash-exp-05-20": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools",
+        "image"
+      ]
+    }
+  },
+  "gemini-2.0-flash-image-generation": {
+    "disablePlayground": true,
+    "type": {
+      "primary": "image"
+    }
+  },
+  "gemini-2.0-pro-exp": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools",
+        "image"
+      ]
+    }
+  },
+  "gemini-2.0-pro-exp-02-05": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools",
+        "image"
+      ]
+    }
+  },
+  "imagen-2.0-generate-001": {
+    "disablePlayground": true,
+    "type": {
+      "primary": "image"
+    }
+  },
+  "gpt-oss-20b-maas": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "llama4-maverick-17b-128e-instruct-maas": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools",
+        "image"
+      ]
+    }
+  },
+  "llama4-scout-17b-16e-instruct-maas": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools",
+        "image"
+      ]
+    }
+  },
+  "deepseek-r1-0528": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "deepseek-r1": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "deepseek-v3": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "deepseek-v3-1": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "deepseek-v3-2": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "kimi-k2-5": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "kimi-k2": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "minimax-m2": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "qwq-32b-preview": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "qwen3-235b-a22b": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "qwen3-30b-a3b": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "qwen3-coder-480b-a35b-instruct": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "qwen3-coder-next-preview": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "qwen3-next-80b-a3b-instruct": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "qwen3-next-80b-a3b-thinking": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "glm-4.5": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "glm-4.7": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "glm-5": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "mistralai-mixtral-8x22b-v0-1": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "mistral-large-2411": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "mistral-nemo": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "codestral-2501": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
+  },
+  "ministral-3b-2410": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "tools"
+      ]
+    }
   }
 }
