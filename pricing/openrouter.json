@@ -5184,6 +5184,18 @@
       }
     }
   },
+  "z-ai/glm-5-turbo": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.000096
+        },
+        "response_token": {
+          "price": 0.00032
+        }
+      }
+    }
+  },
   "x-ai/grok-4.20-multi-agent-beta": {
     "pricing_config": {
       "pay_as_you_go": {
