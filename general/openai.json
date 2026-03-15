@@ -2608,5 +2608,48 @@
       "primary": "chat",
       "supported": ["tools", "image"]
     }
+  },
+  "gpt-5-image": {
+    "type": {
+      "primary": "image"
+    },
+    "disablePlayground": true
+  },
+  "gpt-5-image-mini": {
+    "type": {
+      "primary": "image"
+    },
+    "disablePlayground": true
+  },
+  "gpt-oss-120b": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gpt-oss-20b": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gpt-oss-safeguard-20b": {
+    "type": {
+      "primary": "moderation"
+    },
+    "disablePlayground": true
+  },
+  "o4-mini-high": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "o3-mini-high": {
+    "type": {
+      "primary": "chat"
+    }
+  },
+  "gpt-4.5-preview": {
+    "type": {
+      "primary": "chat"
+    }
   }
 }
