@@ -5036,5 +5036,14 @@
         "maxValue": 196608
       }
     ]
+  },
+  "mistralai/mistral-small-2603": {
+    "type": {
+      "primary": "chat",
+      "supported": [
+        "image",
+        "tools"
+      ]
+    }
   }
 }
