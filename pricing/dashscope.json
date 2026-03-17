@@ -731,5 +731,101 @@
         }
       }
     }
+  },
+  "text-embedding-v1": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00000007
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
+  },
+  "text-embedding-v2": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00000007
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
+  },
+  "text-embedding-v3": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00000007
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
+  },
+  "text-embedding-v4": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00000007
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
+  },
+  "gte-rerank": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.0000001
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
+  },
+  "gte-rerank-v2": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.0000115
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
+  },
+  "qwen3-rerank": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00001
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
+  },
+  "qwen3-vl-rerank": {
+    "pricing_config": {
+      "pay_as_you_go": {
+        "request_token": {
+          "price": 0.00001
+        },
+        "response_token": {
+          "price": 0
+        }
+      }
+    }
   }
 }

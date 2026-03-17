@@ -51,7 +51,7 @@
       }
     ],
     "messages": { "options": ["system", "user", "assistant"] },
-    "type": { "primary": "chat", "supported": [] }
+    "type": { "primary": "chat", "supported": ["embedding", "rerank"] }
   },
   "qwen3-livetranslate-flash-realtime": {
     "params": [{ "key": "max_tokens", "maxValue": 4096 }],
@@ -232,5 +232,29 @@
   "qwen3-30b-a3b": {
     "params": [{ "key": "max_tokens", "maxValue": 16384 }],
     "type": { "primary": "chat" }
+  },
+  "text-embedding-v1": {
+    "type": { "primary": "embedding" }
+  },
+  "text-embedding-v2": {
+    "type": { "primary": "embedding" }
+  },
+  "text-embedding-v3": {
+    "type": { "primary": "embedding" }
+  },
+  "text-embedding-v4": {
+    "type": { "primary": "embedding" }
+  },
+  "gte-rerank": {
+    "type": { "primary": "rerank" }
+  },
+  "gte-rerank-v2": {
+    "type": { "primary": "rerank" }
+  },
+  "qwen3-rerank": {
+    "type": { "primary": "rerank" }
+  },
+  "qwen3-vl-rerank": {
+    "type": { "primary": "rerank" }
   }
 }
