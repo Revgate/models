@@ -2647,5 +2647,28 @@
       "primary": "rerank"
     },
     "disablePlayground": true
-  }
+  },
+  "grok-3-latest": {
+    "type": { "primary": "chat", "supported": [] }
+  },
+  "grok-3-mini-latest": {
+    "type": { "primary": "chat", "supported": [] }
+  },
+  "grok-3-mini-beta": {
+    "type": { "primary": "chat", "supported": [] }
+  },
+  "grok-3-fast-latest": {
+    "type": { "primary": "chat", "supported": [] }
+  },
+  "grok-3-fast-beta": {
+    "type": { "primary": "chat", "supported": [] }
+  },
+  "grok-3-mini-fast-latest": {
+    "type": { "primary": "chat", "supported": [] }
+  },
+  "grok-3-mini-fast-beta": {
+    "type": { "primary": "chat", "supported": [] }
+  },
+  "grok-3-beta": { "type": { "primary": "chat", "supported": [] } },
+  "grok-3-fast": { "type": { "primary": "chat", "supported": [] } }
 }
